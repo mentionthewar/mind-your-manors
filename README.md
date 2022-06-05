@@ -10,6 +10,10 @@ The <strong>English Monastic database</strong> connects (among other things) mon
 
 Information on <strong>medieval taxes</strong> extracted from the E 179 database of Exchequer records held at The National Archives
 
+## Wikidata
+
+## Medieval glossaries 
+
 ## Some tools and tutorials
 
 <a href="https://www.google.co.uk/maps/about/mymaps/">Google My Maps</a>
@@ -20,8 +24,6 @@ Dozens of tutorials focusing on everything from georeferencing to turning data i
 
 <a href="https://hdlab.stanford.edu/palladio/">Palladio</a>
 Palladio makes it easy to create visualisations of networks and relationships from data
-
-## Medieval glossaries 
 
 ## Other useful websites
 
