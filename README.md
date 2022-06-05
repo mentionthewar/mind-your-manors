@@ -8,6 +8,8 @@ The <strong>English Monastic database</strong> connects (among other things) mon
 
 <strong><a href="https://www.envidat.ch/dataset/digitizing-historical-plague">Digitizing historical plague</a></strong> provides time and place data for a large range of (British and International) plague outbreaks. The dataset incldes outbreaks beyond the medieval period.
 
+Information on <strong>medieval taxes</strong> extracted from the E 179 database of Exchequer records held at The National Archives
+
 ## Some tools and tutorials
 
 <a href="https://www.google.co.uk/maps/about/mymaps/">Google My Maps</a>
