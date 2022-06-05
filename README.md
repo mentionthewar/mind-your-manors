@@ -28,5 +28,4 @@ Palladio makes it easy to create visualisations of networks and relationships fr
 ## Other useful websites
 
 - <a href="https://www.medievalmemes.org/">Medieval Meme generator</a>
-- images
-- documents
+- <a href="https://www.bl.uk/manuscripts/">British Library digitised manuscripts</a>
