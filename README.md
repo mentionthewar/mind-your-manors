@@ -12,6 +12,14 @@ The <strong>English Monastic database</strong> connects (among other things) mon
 
 Information on <strong>medieval taxes</strong> extracted from the E 179 database of Exchequer records held at The National Archives
 
+### Online elsewhere
+
+The <strong>Manorial Documents Register</strong> is a comprehensive listing of English and Welsh manors (...with a handful of counties yet to go online). It is searchable and downloadable <a href="https://discovery.nationalarchives.gov.uk/manor-search">via Discovery</a> and Wikidata (<a href="https://www.wikidata.org/wiki/Q105779874">example here</a>).
+
+<strong><a href="https://opendomesday.org/">Open Domesday</a></strong> is a free and open version of Domesday Book <a href="https://www.opendomesday.org./api">with an API</a>. The API will return manors for a given <a href="https://en.wikipedia.org/wiki/Hundred_(county_division)">hundred</a> and manors near given coordinates.
+
+<strong><a href="https://inquisitionspostmortem.ac.uk">Inquistions Post Mortem</a></strong> is a database of these documents focusing on listing the lands of recently deceased wealthy individuals known or believed to hold lands granted by the crown. <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/inquisitions-post-mortem">More about these documents is here</a>. The site indexes <a href="https://inquisitionspostmortem.ac.uk/view/place/52650">by place</a> and by person. Many of the individuals listed under a manor may simply have had the inquisition heard there - it does not mean they hold that manor.
+
 ## Wikidata
 
 ## Medieval glossaries 
