@@ -20,6 +20,8 @@ The <strong>Manorial Documents Register</strong> is a comprehensive listing of E
 
 <strong><a href="https://inquisitionspostmortem.ac.uk">Inquistions Post Mortem</a></strong> is a database of these documents focusing on listing the lands of recently deceased wealthy individuals known or believed to hold lands granted by the crown. <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/inquisitions-post-mortem">More about these documents is here</a>. The site indexes <a href="https://inquisitionspostmortem.ac.uk/view/place/52650">by place</a> and by person. Many of the individuals listed under a manor may simply have had the inquisition heard there - it does not mean they hold that manor.
 
+<strong><a href="https://www.british-history.ac.uk/search/series/vch">Victoria County History</a> is an extraordinary collection of information about British places through time. A lot of useful information about the owners of manors and events in them (<a href="https://wwww.british-history.ac.uk/vch/warks/vol4/pp126-131">example here</a>) often listed under the parish. But information on many other sites is also present - for example <a href="https://www.british-history.ac.uk/vch/yorks/vol3/pp107-112">abbeys and their abbots</a>.
+
 ## Wikidata
 
 ## Medieval glossaries 
