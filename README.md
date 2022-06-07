@@ -30,7 +30,7 @@ The <strong><a href="https://archbishopsregisters.york.ac.uk/home_page/index">Yo
 
 The <strong><a href="https://archives.history.ac.uk/gazetteer/gazweb2.html">Gazetteer of markets and fairs</a></strong> lists around 2,400 places in England and Wales which had a market or fair by 1516. The data is not very structured (<a href="https://archives.history.ac.uk/gazetteer/gazweb2.html">here is the entry for the county of Yorkshire</a>) but it contains dates of when rights were granted (and by and to who) and when fairs happened (e.g. for Hornsea, St Nicholas Fair and a fair for the feast of St Peter's Chains)
 
-<strong>Bridges of Medieval England to c.1250</strong>. Dataset of georeferenced medieval bridges <ahref="https://archaeologydataservice.ac.uk/archives/view/medbridges_lt_2019/downloads.cfm?archive=GIS">downloadable here</a>. The King could grant 'pontage', the right to levy a tax to pay for building or repairing a bridge (see an <a href="https://discovery.nationalarchives.gov.uk/details/r/C12217085">example described here</a>).
+<strong>Bridges of Medieval England to c.1250</strong>. Dataset of georeferenced medieval bridges <a href="https://archaeologydataservice.ac.uk/archives/view/medbridges_lt_2019/downloads.cfm?archive=GIS">downloadable here</a>. The King could grant 'pontage', the right to levy a tax to pay for building or repairing a bridge (see an <a href="https://discovery.nationalarchives.gov.uk/details/r/C12217085">example described here</a>).
   
 ## Wikidata
 
