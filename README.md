@@ -32,9 +32,13 @@ The <strong><a href="https://archives.history.ac.uk/gazetteer/gazweb2.html">Gaze
 
 <strong>Bridges of Medieval England to c.1250</strong>. Dataset of georeferenced medieval bridges <a href="https://archaeologydataservice.ac.uk/archives/view/medbridges_lt_2019/downloads.cfm?archive=GIS">downloadable here</a>. The King could grant <a href="https://en.wikipedia.org/wiki/Pontage">pontage</a>, the right to levy a tax to pay for building or repairing a bridge (see an <a href="https://discovery.nationalarchives.gov.uk/details/r/C12217085">example described here</a>).
   
-## Wikidata
+## Medieval glossary
 
-## Medieval glossaries 
+Manorial and medieval documents can include quite a few unfamiliar words connected with land, the law, agriculture and many (many) different kinds of tax or fine.
+
+Marina Georgiou and Farah Yameen have brought together <a href="https://docs.google.com/spreadsheets/d/1lo3pZFdwqrZQ28yydLNOe7__xlUz6RlxO9KxvhB0NOY/edit?usp=sharing">many online glossaries for these terms in one place</a>.
+
+If you find yourself looking up a term that is not on this list, please consider adding it and the definition so everyone at the event can benefit from your new knowledge.
 
 ## Some tools and tutorials
 
