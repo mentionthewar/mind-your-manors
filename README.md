@@ -28,7 +28,7 @@ The <strong><a href="https://archbishopsregisters.york.ac.uk/home_page/index">Yo
 
 <strong><a href="https://www.dhi.ac.uk/taxatio/forms">Taxatio</a></strong> is a database of taxes paid by churches in 1291/2. It is arranged by place. <a href="https://www.dhi.ac.uk/taxatio/benkey?benkey=YK.ER.HL.27">This entry, for instance, is for Hornsea</a>, a parish overlapping the manor owned by St Mary's Abbey, York. Entries contain grid references.
 
-The <strong><a href="https://archives.history.ac.uk/gazetteer/gazweb2.html">Gazetteer of markets and fairs</strong> lists around 2,400 places in England and Wales which had a market or fair by 1516. The data is not very structured (<a href="https://archives.history.ac.uk/gazetteer/gazweb2.html">here is the entry for the county of Yorkshire</a>) but it contains dates of when rights were granted (and by and to who) and when fairs happened (e.g. for Hornsea, St Nicholas Fair and a fair for the feast of St Peter's Chains)
+The <strong><a href="https://archives.history.ac.uk/gazetteer/gazweb2.html">Gazetteer of markets and fairs</a></strong> lists around 2,400 places in England and Wales which had a market or fair by 1516. The data is not very structured (<a href="https://archives.history.ac.uk/gazetteer/gazweb2.html">here is the entry for the county of Yorkshire</a>) but it contains dates of when rights were granted (and by and to who) and when fairs happened (e.g. for Hornsea, St Nicholas Fair and a fair for the feast of St Peter's Chains)
 
 Medieval bridges dataset (or for above)
   
