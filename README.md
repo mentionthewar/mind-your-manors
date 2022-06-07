@@ -32,6 +32,12 @@ The <strong><a href="https://archives.history.ac.uk/gazetteer/gazweb2.html">Gaze
 
 <strong>Bridges of Medieval England to c.1250</strong>. Dataset of georeferenced medieval bridges <a href="https://archaeologydataservice.ac.uk/archives/view/medbridges_lt_2019/downloads.cfm?archive=GIS">downloadable here</a>. The King could grant <a href="https://en.wikipedia.org/wiki/Pontage">pontage</a>, the right to levy a tax to pay for building or repairing a bridge (see an <a href="https://discovery.nationalarchives.gov.uk/details/r/C12217085">example described here</a>).
   
+## Documents (downloadable above)
+
+These documents are typically semi-structured and will require cleaning in order to make them machine processable
+
+<strong>Norton Manorial Court Rolls</strong> cover the Lincolnshire manor of Norton from 1246 to 1539.
+
 ## Medieval glossary
 
 Manorial and medieval documents can include quite a few unfamiliar words connected with land, the law, agriculture and many (many) different kinds of tax or fine.
