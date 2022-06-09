@@ -18,6 +18,8 @@ The <strong> Gazetteer of markets and fairs</a></strong> lists around 2,400 plac
 
 <strong>Medieval Crop Yields Database</strong> These spreadsheets show 30,000 data points on a range of agricultural produce from 1211 to 1491 (though most observations are from 1270-1430). The data is arranged by crop and county.
 
+<strong>Popular Protests in Late Medieval English Towns</strong>. The dataset covers 1196-1452 and could be interesting compared with the above data and tax data. Although the dataset is well structured, some research might be required to understand what the values in the all the fields signify.
+
 <strong>England's Immigrants</strong> (1330-1550) is a database of 64,000 migrants to England <a href="https://www.englandsimmigrants.com/">documented here</a>.
 
 <strong><a href="https://www.envidat.ch/dataset/digitizing-historical-plague">Digitizing historical plague</a></strong> provides time and place data for a large range of (British and International) plague outbreaks. The dataset incldes outbreaks beyond the medieval period.
