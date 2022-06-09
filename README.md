@@ -10,6 +10,8 @@ The <strong>English Monastic database</strong> connects (among other things) mon
 
 The <strong> Gazetteer of markets and fairs</a></strong> lists around 2,400 places in England and Wales which had a market or fair by 1516. You can search or familiarise yourself with the data <a href="https://archives.history.ac.uk/gazetteer/gazweb2.html">via the website</a> (or <a href="https://archives.history.ac.uk/gazetteer/gazweb2.html">here is the entry for the county of Yorkshire</a>) and download various versions above. The Gazetteer contains dates of when rights to hold fairs and markets were granted (and by and to who) and when they happened (e.g. for Hornsea, St Nicholas Fair and a fair for the feast of St Peter's Chains).
 
+<strong>Dyffryn Clwyd Court Rolls Database</strong> Data extracted from the court rolls of this Welsh manor. The dataset is quite complicated so zipped here are tables representing entries from the 1340s and 1390s together with the user guide and more data can be provided.
+
 <strong>Beresford's Lost Villages</strong> contains geodata for thousands of medieval settlements which no longer exist. This dataset has strong links to other data, such as the National Monuments Record and you can see <a href="http://www.dmvhull.org/textpage.cfm?id=27">more information about it and explore the online version here</a>.
 
 <strong> Ancient Correspondence (SC 1) </strong> Rich descriptions of this group of records at The National Archives giving details of letters to (and from - but mostly to) the King and other high officials. These letters come from a wide range of individuals and cover all sorts of topics. <a href="https://discovery.nationalarchives.gov.uk/details/r/C13526">More information on the records here.</a>
