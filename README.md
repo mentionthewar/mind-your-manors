@@ -8,7 +8,9 @@ Thank you to everyone who allowed us to make use of data for this event and part
 
 The <strong>English Monastic database</strong> connects (among other things) monastic houses such as abbeys with the manors they owned. More information about the dataset is <a href="https://www.ucl.ac.uk/library/digital-collections/collections/monastic">here</a>
 
-<strong> Ancient Petitions (SC 8) </strong> Rich descriptions of this group of records at The National Archives giving details of petitions to the King and other high officials. These petitions come from a huge range of individuals and cover all sorts of topics. <a href="https://discovery.nationalarchives.gov.uk/details/r/C13526">More information on the records here.</a>
+<strong> Ancient Correspondence (SC 1) </strong> Rich descriptions of this group of records at The National Archives giving details of letters to (and from - but mostly to) the King and other high officials. These letters come from a wide range of individuals and cover all sorts of topics. <a href="https://discovery.nationalarchives.gov.uk/details/r/C13526">More information on the records here.</a>
+
+<strong> Ancient Petitions (SC 8) </strong> Rich descriptions of this group of records at The National Archives giving details of petitions to the King and other high officials. These petitions come from a huge range of individuals and cover all sorts of topics - but there are lots of references to manors and to the city of York <a href="https://discovery.nationalarchives.gov.uk/details/r/C13526">More information on the records here.</a>
 
 <strong>Medieval Crop Yields Database</strong> These spreadsheets show 30,000 data points on a range of agricultural produce from 1211 to 1491 (though most observations are from 1270-1430). The data is arranged by crop and county.
 
