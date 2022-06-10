@@ -12,8 +12,6 @@ The <strong> Gazetteer of markets and fairs</a></strong> lists around 2,400 plac
 
 <strong>Dyffryn Clwyd Court Rolls Database</strong> Data extracted from the court rolls of this Welsh manor. The dataset is quite complicated so zipped here are tables representing entries from the 1340s and 1390s together with the user guide and more data can be provided.
 
-The <strong><a href="https://neolography.com/timelines/JohnItinerary.html">Itinerary of King John</a></strong> tracks England's most unpopular monarch throughout his reign. The underlying data for the site is <a href="https://github.com/jjon/Itinerary-of-John">on Github here</a>.
-
 <strong>Beresford's Lost Villages</strong> contains geodata for thousands of medieval settlements which no longer exist. This dataset has strong links to other data, such as the National Monuments Record and you can see <a href="http://www.dmvhull.org/textpage.cfm?id=27">more information about it and explore the online version here</a>.
 
 <strong> Ancient Correspondence (SC 1) </strong> Rich descriptions of this group of records at The National Archives giving details of letters to (and from - but mostly to) the King and other high officials. These letters come from a wide range of individuals and cover all sorts of topics. <a href="https://discovery.nationalarchives.gov.uk/details/r/C13526">More information on the records here.</a>
@@ -43,6 +41,8 @@ The <strong>Manorial Documents Register</strong> is a comprehensive listing of E
 The <strong>Fine Rolls</strong> record payments to the crown for permissions or privileges, such as the right to inherit, marry or secure land or establish a fair or market. Transcripts covering the reign of Henry III (much of the 13th century) are <a href="https://finerollshenry3.org.uk/home.html">transcribed and searchable here</a>. Plenty of manors get a mention.
 
 The <strong><a href="https://archbishopsregisters.york.ac.uk/home_page/index">York Archbishop's Registers</a></strong> database also contains good quality descriptions of the wheelings, dealings, cases and decisions of the Archbishop. These might involve land deals, licences to do various things or criminal cases.
+
+The <strong><a href="https://neolography.com/timelines/JohnItinerary.html">Itinerary of King John</a></strong> tracks England's most unpopular monarch throughout his reign. The underlying data for the site is <a href="https://github.com/jjon/Itinerary-of-John">on Github here</a>.
 
 <strong><a href="https://www.dhi.ac.uk/taxatio/forms">Taxatio</a></strong> is a database of taxes paid by churches in 1291/2. It is arranged by place. <a href="https://www.dhi.ac.uk/taxatio/benkey?benkey=YK.ER.HL.27">This entry, for instance, is for Hornsea</a>, a parish overlapping the manor owned by St Mary's Abbey, York. Entries contain grid references.
 
