@@ -12,6 +12,8 @@ The <strong> Gazetteer of markets and fairs</a></strong> lists around 2,400 plac
 
 <strong>Dyffryn Clwyd Court Rolls Database</strong> Data extracted from the court rolls of this Welsh manor. The dataset is quite complicated so zipped here are tables representing entries from the 1340s and 1390s together with the user guide and more data can be provided.
 
+The <strong><a href="https://neolography.com/timelines/JohnItinerary.html">Itinerary of King John</a></strong> tracks England's most unpopular monarch throughout his reign. The underlying data for the site is <a href="https://github.com/jjon/Itinerary-of-John">on Github here</a>.
+
 <strong>Beresford's Lost Villages</strong> contains geodata for thousands of medieval settlements which no longer exist. This dataset has strong links to other data, such as the National Monuments Record and you can see <a href="http://www.dmvhull.org/textpage.cfm?id=27">more information about it and explore the online version here</a>.
 
 <strong> Ancient Correspondence (SC 1) </strong> Rich descriptions of this group of records at The National Archives giving details of letters to (and from - but mostly to) the King and other high officials. These letters come from a wide range of individuals and cover all sorts of topics. <a href="https://discovery.nationalarchives.gov.uk/details/r/C13526">More information on the records here.</a>
