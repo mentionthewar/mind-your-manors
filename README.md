@@ -76,4 +76,4 @@ Palladio makes it easy to create visualisations of networks and relationships fr
 - <a href="https://www.medievalmemes.org/">Medieval Meme generator</a>
 - <a href="https://www.bl.uk/manuscripts/">British Library digitised manuscripts</a>
 - <a href="https://www.lancaster.ac.uk/fass/projects/manorialrecords/">Cumbrian manorial documents</a> - explains types, scans with commentary rather than transcription
-- <a href="https://www.nottingham.ac.uk/manuscriptsandspecialcollections/researchguidance/manorial/introduction.aspx">Nottingham manorial research guidance</a> - document < <a href="https://www.nottingham.ac.uk/manuscriptsandspecialcollections/researchguidance/manorial/types.aspx">types with examples here</a>
+- <a href="https://www.nottingham.ac.uk/manuscriptsandspecialcollections/researchguidance/manorial/introduction.aspx">Nottingham manorial research guidance</a> - document <a href="https://www.nottingham.ac.uk/manuscriptsandspecialcollections/researchguidance/manorial/types.aspx">types with examples here</a>
