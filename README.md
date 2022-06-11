@@ -77,6 +77,9 @@ Dozens of tutorials focusing on everything from georeferencing to turning data i
 <a href="https://hdlab.stanford.edu/palladio/">Palladio</a>
 Palladio makes it easy to create visualisations of networks and relationships from data
 
+<a href="http://www.twinery.org/">Twine</a>
+Tool for interactive storytelling
+
 ## Other useful websites
 
 - <a href="https://www.medievalmemes.org/">Medieval Meme generator</a>
