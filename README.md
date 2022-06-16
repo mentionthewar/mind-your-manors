@@ -54,7 +54,7 @@ These documents are typically semi-structured and will require cleaning in order
 
 <strong>Norton Manorial Court Rolls</strong> cover cases heard at the manorial court of the Lincolnshire manor of Norton from 1246 to 1539. Downloadable above.
 
-<strong> <a href="https://archive.org/details/yorkshirearchaeologicalandhistoricalsociety?sort=titleSorter&and[]%20=firstTitle:W">Wakefield Court Rolls</a></sttrong> Transcripts from the Internet Archive. Downloadable as plaintext (1331-3, 1338-40, 1348-52 (2 vols), 1433-6, 1537-40). Not very structured data. <a href="https://sourcebooks.fordham.edu/source/1274wakefield-courtrolls.asp">Further Wakefield court rolls covering 1274-97 are here</a>. Also unstructured.
+<strong> <a href="https://archive.org/details/yorkshirearchaeologicalandhistoricalsociety?sort=titleSorter&and[]%20=firstTitle:W">Wakefield Court Rolls</a></strong> Transcripts from the Internet Archive. Downloadable as plaintext (1331-3, 1338-40, 1348-52 (2 vols), 1433-6, 1537-40). Not very structured data. <a href="https://sourcebooks.fordham.edu/source/1274wakefield-courtrolls.asp">Further Wakefield court rolls covering 1274-97 are here</a>. Also unstructured.
   
 <strong> <a href="https://www.dhi.ac.uk/conisbrough/">Conisbrough Court Rolls</a></strong> Cases heard in this Yorkshire manorial court. Also semi-structured. Quite a bit of cleaning and scraping needed. Has 1324/5, 1349/50, 1380/1, 1480-6, 1536.
 
