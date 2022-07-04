@@ -24,7 +24,7 @@ The <strong> Gazetteer of markets and fairs</a></strong> lists around 2,400 plac
 
 <strong>England's Immigrants</strong> (1330-1550) is a database of 64,000 migrants to England <a href="https://www.englandsimmigrants.com/">documented here</a>.
 
-<strong><a href="https://www.envidat.ch/dataset/digitizing-historical-plague">Digitizing historical plague</a></strong> provides time and place data for a large range of (British and International) plague outbreaks. The dataset incldes outbreaks beyond the medieval period.
+<strong><a href="https://www.envidat.ch/dataset/digitizing-historical-plague">Digitizing historical plague</a></strong> provides time and place data for a large range of (British and International) plague outbreaks. The dataset includes outbreaks beyond the medieval period.
 
 Information on <strong>medieval taxes</strong> extracted from the E 179 database of Exchequer records held at The National Archives
 
